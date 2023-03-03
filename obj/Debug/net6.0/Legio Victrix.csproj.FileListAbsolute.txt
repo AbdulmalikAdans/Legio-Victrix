@@ -1,0 +1,15 @@
+C:\Users\poptr\Documents\c#\Legio Victrix\obj\Debug\net6.0\Legio Victrix.csproj.AssemblyReference.cache
+C:\Users\poptr\Documents\c#\Legio Victrix\obj\Debug\net6.0\Legio Victrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poptr\Documents\c#\Legio Victrix\obj\Debug\net6.0\Legio Victrix.AssemblyInfoInputs.cache
+C:\Users\poptr\Documents\c#\Legio Victrix\obj\Debug\net6.0\Legio Victrix.AssemblyInfo.cs
+C:\Users\poptr\Documents\c#\Legio Victrix\obj\Debug\net6.0\Legio Victrix.csproj.CoreCompileInputs.cache
+C:\Users\poptr\Documents\c#\Legio Victrix\bin\Debug\net6.0\Legio Victrix.exe
+C:\Users\poptr\Documents\c#\Legio Victrix\bin\Debug\net6.0\Legio Victrix.deps.json
+C:\Users\poptr\Documents\c#\Legio Victrix\bin\Debug\net6.0\Legio Victrix.runtimeconfig.json
+C:\Users\poptr\Documents\c#\Legio Victrix\bin\Debug\net6.0\Legio Victrix.dll
+C:\Users\poptr\Documents\c#\Legio Victrix\bin\Debug\net6.0\Legio Victrix.pdb
+C:\Users\poptr\Documents\c#\Legio Victrix\obj\Debug\net6.0\Legio Victrix.dll
+C:\Users\poptr\Documents\c#\Legio Victrix\obj\Debug\net6.0\refint\Legio Victrix.dll
+C:\Users\poptr\Documents\c#\Legio Victrix\obj\Debug\net6.0\Legio Victrix.pdb
+C:\Users\poptr\Documents\c#\Legio Victrix\obj\Debug\net6.0\Legio Victrix.genruntimeconfig.cache
+C:\Users\poptr\Documents\c#\Legio Victrix\obj\Debug\net6.0\ref\Legio Victrix.dll
