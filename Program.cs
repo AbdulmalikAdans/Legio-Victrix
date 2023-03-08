@@ -6,7 +6,7 @@ namespace Legio_Victrix
     {
         static void Main(string[] args)
         {
-            string userName = System.Security.Principal.WindowsIdentity.GetCurrent().Name;
+            string userName = Environment.UserName;
             bool shutdown = false;
             bool foundResponse;
             string inputValue;
@@ -43,6 +43,11 @@ namespace Legio_Victrix
                     
                     case "what is the meaing of life":
                     outputValue = "I really dont know!";
+                    foundResponse = true;
+                    break;
+
+                    case "i am gay":
+                    outputValue = "its good to be gay";
                     foundResponse = true;
                     break;
 
